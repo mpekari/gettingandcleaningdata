@@ -7,6 +7,8 @@ values for each measurement from the dataset.
 Before running the script, place the UCI HAR Dataset directory along with all its files 
 and subdirectories in your working directory. 
 
+The UCI HAR Dataset  can be downloaded here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 The script will write the resulting dataset in a file called "tidy_data.txt" in the working directory.
 
 tidy_data.txt
